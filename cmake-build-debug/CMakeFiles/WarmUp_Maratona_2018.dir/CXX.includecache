@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CIN/sgfl/Desktop/WarmUp-Maratona-2018/A.cpp
+iostream
+-
+stdio.h
+-
+math.h
+-
+

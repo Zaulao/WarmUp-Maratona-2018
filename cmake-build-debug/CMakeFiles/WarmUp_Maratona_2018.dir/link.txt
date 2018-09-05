@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WarmUp_Maratona_2018.dir/A.cpp.o  -o WarmUp_Maratona_2018 
